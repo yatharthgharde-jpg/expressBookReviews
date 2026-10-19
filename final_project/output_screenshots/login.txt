@@ -1,0 +1,1 @@
+{"message":"User successfully logged in","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNvdXJzZXJhX3VzZXIiLCJpYXQiOjE3OTI0MzUzMDUsImV4cCI6MTc5MjQzODkwNX0.8fSDBfH6aZYmivTduiFEKEQ-ho7HT1ilCytcnkU2yps"}
